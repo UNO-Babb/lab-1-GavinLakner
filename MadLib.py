@@ -1,6 +1,6 @@
 #MadLib.py
 #Name: Gavin Lakner
-#Date: 8/30/2025
+#Date: 8/31/2025
 #Assignment: Lab 1
 
 def main():
